@@ -1,7 +1,7 @@
 #! /bin/bash
 # generate URL.sh script
 
-script=/home/aqsa286/Desktop/URL.sh         #name of the script
+script=/etc/URL.sh         #name of the script
 
 (
 cat << 'EOF'
